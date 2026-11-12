@@ -1,4 +1,0 @@
-streamlit==1.67.0
-SQLAlchemy==2.1.8
-plotly==6.9.0
-tzdata==2026.6
